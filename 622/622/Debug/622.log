@@ -1,0 +1,7 @@
+﻿  622.cpp
+c:\users\cyang\source\repos\622\622\622.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\cyang\source\repos\622\622\622.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\cyang\source\repos\622\622\622.cpp(137): warning C4018: '<': signed/unsigned mismatch
+c:\users\cyang\source\repos\622\622\622.cpp(167): warning C4018: '>=': signed/unsigned mismatch
+c:\users\cyang\source\repos\622\622\622.cpp(198): warning C4018: '<': signed/unsigned mismatch
+  622.vcxproj -> C:\Users\cyang\source\repos\622\Debug\622.exe
